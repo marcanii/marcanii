@@ -14,30 +14,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      
-      - name: Generate snake
+      - name: generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: marcanii
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: List directory contents
-        run: ls
-      
-      - name: Create dist directory
-        run: mkdir -p dist
-      
-      - name: Copy SVG files
-        run: |
-          find . -name "github-contribution-grid-snake*.svg" -exec cp {} dist/ \;
-      
-      - name: Push branch output
+          GITHUB_TOKEN: ${{ github.token }}
+          
+      - name: push branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
