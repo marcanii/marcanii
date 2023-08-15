@@ -7,42 +7,29 @@ on:
   
   push:
     branches:
-      - master
+    - master
   
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: generate snake
+        uses: Platane/snk/svg-only@v3
         with:
-          node-version: '16' # Use Node.js 16
-          
-      - name: Install dependencies
-        run: npm install
+          github_user_name: marcanii
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       
-      - name: Generate snake
-        run: npm run generate-snake
-      
-      - name: Configure Git
+      - name: Copy SVG files
         run: |
-          git config --global user.name "marcanii"
-          git config --global user.email "israelmarcani10@gmail.com"
+          mkdir -p dist
+          cp ${{ github.workspace }}/github-contribution-grid-snake*.svg dist/
       
-      - name: Commit and push changes
-        run: |
-          git add -A
-          git commit -m "Update Snake visualization"
-          git push
-      
-      - name: Publish to GitHub Pages
+      - name: Push branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
