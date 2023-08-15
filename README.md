@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hello! I'm Israel Marcani, a passionate developer with a love for programming and technology. I love exploring new ideas and working on exciting projects that challenge my creativity and technical skills.<br>
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=marcanii&color=blue&style=flat)](https://komarev.com/ghpvc/?username=marcanii)
+[![ProfileViews](https://visitcount.itsvg.in/api?id=marcanii&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abel.marcani.5)
@@ -46,7 +46,7 @@ Hello! I'm Israel Marcani, a passionate developer with a love for programming an
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marcanii&icon=5&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
