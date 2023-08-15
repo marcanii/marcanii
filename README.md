@@ -1,4 +1,3 @@
-![logo]()
 
 # 💫 About Me:
 Hello! I'm Israel Marcani, a passionate developer with a love for programming and technology. I love exploring new ideas and working on exciting projects that challenge my creativity and technical skills.<br>
