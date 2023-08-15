@@ -1,9 +1,9 @@
-![logo](https://github.com/marcanii/marcanii/blob/main/backgorund01.jpg)
+![logo](https://github.com/marcanii/marcanii/blob/main/backgorund01.jpg)<br><br>
+
 # 💫 About Me:
-Hello! I'm Israel Marcani, a passionate developer with a love for programming and technology. I love exploring new ideas and working on exciting projects that challenge my creativity and technical skills.<br>
-
-[![ProfileViews](https://visitcount.itsvg.in/api?id=marcanii&icon=5&color=0)](https://visitcount.itsvg.in)
-
+Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore innovative and challenging projects.<br><br>
+[![ProfileViews](https://visitcount.itsvg.in/api?id=marcanii&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<br><br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abel.marcani.5)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcanii02)
@@ -30,18 +30,25 @@ Hello! I'm Israel Marcani, a passionate developer with a love for programming an
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+<div align="center">
+  <h1>🐍 My Contributions 🐍</h1>
+  
+  ![Snake animation](https://github.com/marcanii/marcanii/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcanii&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=marcanii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcanii&theme=tokyonight&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=marcanii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcanii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marcanii&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marcanii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
