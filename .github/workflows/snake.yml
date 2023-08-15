@@ -24,11 +24,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
+      - name: List directory contents
+        run: ls
+      
       - name: Create dist directory
         run: mkdir -p dist
       
       - name: Copy SVG files
-        run: cp github-contribution-grid-snake*.svg dist/
+        run: |
+          find . -name "github-contribution-grid-snake*.svg" -exec cp {} dist/ \;
       
       - name: Push branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
