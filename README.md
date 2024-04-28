@@ -22,7 +22,7 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 
 <h2 align="left">:hammer_and_wrench: Tools I use:</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,windows,unreal,sublime,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,windows,sublime,stackoverflow" />
 </p>
 
 <div align="left">
