@@ -8,7 +8,7 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 <div align="left">
 <h2>🌐 Socials:</h2>
   
-[<a href="https://facebook.com/abel.marcani.5"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48" width="58"/></a>](https://facebook.com/abel.marcani.5)
+[<a href="https://facebook.com/marcanii02"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48" width="58"/></a>](https://facebook.com/abel.marcani.5)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/marcanii02)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/marcanii)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/israel_marcani)
