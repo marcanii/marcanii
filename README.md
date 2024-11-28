@@ -33,6 +33,11 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 </div>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 💻🚀 My Developed Projects
+#### CCBOL2024
+<p align="left">
+  <a href="https://github.com/marcanii/proyecto-ccbol2024">
+    <img src="https://github.com/marcanii/proyecto-ccbol2024/blob/main/screenshots/screenshots01.png" alt="CCBOL2024" width="250" style="border-radius: 8px; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  </a>
+</p>
 
