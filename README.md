@@ -34,10 +34,21 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 
 
 ## 💻🚀 My Developed Projects
-#### CCBOL2024
-<p align="left">
-  <a href="https://github.com/marcanii/proyecto-ccbol2024">
-    <img src="https://github.com/marcanii/proyecto-ccbol2024/blob/main/screenshots/screenshots01.png" alt="CCBOL2024" width="250" style="border-radius: 8px; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
-  </a>
-</p>
-
+<div align="left">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 15px; border: none;">
+        <h4 style="font-size: 16px; margin-bottom: 10px; font-weight: bold;">BuddyBot</h4>
+        <a href="https://github.com/marcanii/Proyecto-SIS330">
+          <img src="https://github.com/marcanii/Proyecto-SIS330/blob/main/screenshot01.png" alt="BuddyBot" width="250" style="border-radius: 8px; max-height: 200px; object-fit: cover;">
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; border: none;">
+        <h4 style="font-size: 16px; margin-bottom: 10px; font-weight: bold;">CCBOL2024</h4>
+        <a href="https://github.com/marcanii/proyecto-ccbol2024">
+          <img src="https://github.com/marcanii/proyecto-ccbol2024/blob/main/screenshots/screenshots01.png" alt="CCBOL2024" width="250" style="border-radius: 8px; max-height: 200px; object-fit: cover;">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
