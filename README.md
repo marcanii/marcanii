@@ -38,6 +38,12 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" style="padding: 15px; border: none;">
+        <h4 style="font-size: 16px; margin-bottom: 10px; font-weight: bold;">StarFighter</h4>
+        <a href="https://github.com/marcanii/Proyecto-Final-StarFighter">
+          <img src="https://github.com/marcanii/Proyecto-Final-StarFighter/blob/master/screenshot01.png" alt="StarFighter" width="250" style="border-radius: 8px; max-height: 200px; object-fit: cover;">
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; border: none;">
         <h4 style="font-size: 16px; margin-bottom: 10px; font-weight: bold;">BuddyBot</h4>
         <a href="https://github.com/marcanii/Proyecto-SIS330">
           <img src="https://github.com/marcanii/Proyecto-SIS330/blob/main/screenshot01.png" alt="BuddyBot" width="250" style="border-radius: 8px; max-height: 200px; object-fit: cover;">
