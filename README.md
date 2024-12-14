@@ -18,12 +18,12 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 
 <h2 align="left">💻 Languages & Frameworks:</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,html,css,js,ts,nestjs,nextjs,postgres,mysql,php,laravel,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,html,css,js,ts,nestjs,nextjs,vue,postgres,mysql" />
 </p>
 
 <h2 align="left">:hammer_and_wrench: Tools I use:</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,windows,sublime,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,linux,windows,stackoverflow" />
 </p>
 
 <div align="left">
