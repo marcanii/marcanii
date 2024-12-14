@@ -13,6 +13,7 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/marcanii)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/israel_marcani)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:israelmarcani10@gmail.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/marcanii)
 </div>
 
 <h2 align="left">💻 Languages & Frameworks:</h2>
