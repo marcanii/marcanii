@@ -16,15 +16,38 @@ Hey! 👋 I'm Israel Marcani, a lover of technology and programming. I adore inn
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/marcanii)
 </div>
 
-<h2 align="left">💻 Languages & Frameworks:</h2>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,html,css,js,ts,nestjs,nextjs,vue,postgres,mysql" />
-</p>
+<div align="left">
+  <h2 align="left">💻 Languages & Frameworks:</h2>
+  
+  [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+  [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
+  [![JS](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+  [![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/es)
+  [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+  [![Nestjs](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
+  [![Nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+  [![Vuejs](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+  [![HTML](https://skillicons.dev/icons?i=html)]()
+  [![CSS](https://skillicons.dev/icons?i=css)]()
+  [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+  [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+  [![Mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+</div>
 
-<h2 align="left">:hammer_and_wrench: Tools I use:</h2>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,linux,windows,stackoverflow" />
-</p>
+<div align="left">
+  <h2 align="left">:hammer_and_wrench: Tools I use:</h2>
+
+  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+  [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+  [![Npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+  [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+  [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/es-es/windows)
+  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+  [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)
+</div>
 
 <div align="left">
   <h1>🐍 My Contributions 🐍</h1>
